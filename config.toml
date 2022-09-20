@@ -1,4 +1,4 @@
-baseurl = "https:thelegendofdata.netlify.app"
+baseurl = "https://thelegendofdata.netlify.app/"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium"
