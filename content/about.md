@@ -1,6 +1,10 @@
 ---
-title: "About"
-date: "2016-05-05T21:48:51-07:00"
+title: "A propos""
+date: "2022-09-20"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+[**blogdown**] The Legend of Data est un site proposant des analyses de différents niveaux du secteur du jeu vidéo. 
+
+Le site a été créé par Mickaël FERRET en septembre 2022.
+
+
