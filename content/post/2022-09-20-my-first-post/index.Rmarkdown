@@ -16,7 +16,11 @@ Après une vingtaine d'heures à explorer le monde de Weyard en compagnie de Isa
 
 Il est temps pour moi de découvrir un des meilleurs Dragon Quest, voir un des meilleurs JRPG, Dragon Quest V: La Fiancée Céleste. Tout naïf que je suis, je fais un saut au magasin Rétro à côté de la maison, et là je vois le prix 300 CAD (soit 225€) pour une version CIB.
 
-Je regarde le prix sur les sites européens, entre 150€ et 200€. Le prix est un peu plus faible mais tout de même élevé pour un jeu sorti il y a une vingtaine d'années.
+Je regarde le prix sur les sites européens, entre 150€ et 200€. Le prix est un peu plus faible mais tout de même élevé pour un jeu sorti il y a une vingtaine d'années. La version japonaise est quand à elle autour de 50CAD (environ 30€), une grande différence par rapport aux autres.
+
+Même constat pour la version DS de Chrono Trigger où le prix Japonais est quasiement 2 fois plus faible que les versions européennes et américaines.
+
+Ci-joint les données provenant du site <https://www.pricecharting.com/>, site répertoriant les dernières offres sur ebay et sur leur "market place".
 
 <!DOCTYPE html>
 
