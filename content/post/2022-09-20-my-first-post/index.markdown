@@ -1,14 +1,14 @@
-------------------------------------------------------------------------
-
-title: Prix des jeux rétro selon la région author: 'Mickaël FERRET' date: '2022-09-20' slug: my-first-post categories: \[\] tags: \[\]
+---
+title: Prix des jeux rétro selon la région 
+date: '2022-09-20'
+output: html_document
+---
 
 Depuis quelques années j'hésitais à faire l'acquisition d'une Nintendo DS pour pouvoir profiter du catalogue de la console mais aussi de celui de la GBA et DS.
 
 Etant un grand fan de JRPG c'était selon moi la console parfaite pour (re-)découvrir des titres majeurs de l'industrie tels que les Final Fantasy, Golden Sun, qui en passant a été un de mes premiers JRPG et qui m'a fortement marqué à l'époque sur GBA et les Dragon Quest sur DS.
 
 J'ai entre temps eu 2 filles et moins de temps pour jouer, mais il y a quelques mois je vois qu'une DS Lite en assez bon état est à vendre dans le magasin Rétro à côté de la maison pour environ 69 CAD (soit environ 50€). Je prends le temps de la réflexion, et 5 min plus tard direction le magasin (Je reviens évidemment avec une copie de Golden Sun!).
-
-![](images/GoldenSun-GBA-BoxArt.jpg)
 
 Tout content de mon achat, je retrouve cette nostalgie des jeux de mon enfance et de mon adolescence, ce pixel art qui selon moi a très bien vieilli, cette musique magnifique et tant d'autres aspects qui font le charme des jeux de cette époque.
 
@@ -18,6 +18,42 @@ Il est temps pour moi de découvrir un des meilleurs Dragon Quest, voir un des m
 
 Je regarde le prix sur les sites européens, entre 150€ et 200€. Le prix est un peu plus faible mais tout de même élevé.
 
-<div class='tableauPlaceholder' id='viz1663726669568' style='position: relative'><noscript><a href='#'><img alt='Prix des jeux rétro selon la région ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PrixdesjeuxRtroselonlargion&#47;Prixdesjeuxrtroselonlargion&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PrixdesjeuxRtroselonlargion&#47;Prixdesjeuxrtroselonlargion' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PrixdesjeuxRtroselonlargion&#47;Prixdesjeuxrtroselonlargion&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='fr-FR' /></object></div>
+<!DOCTYPE html>
 
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1663726669568');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1377px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<html>
+    <head>
+        <title> Tableau Dashborad </title>
+    </head>
+    <body>
+        <div class='tableauPlaceholder' id='viz1663728699610' style='position: relative'>
+          <noscript>
+            <a href='#'>
+              <img alt='Prix des jeux rétro selon la région ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PrixdesjeuxRtroselonlargion&#47;Prixdesjeuxrtroselonlargion&#47;1_rss.png' style='border: none' />
+            </a>
+          </noscript>
+          <object class='tableauViz'  style='display:none;'>
+            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+            <param name='embed_code_version' value='3' /> 
+            <param name='site_root' value='' />
+            <param name='name' value='PrixdesjeuxRtroselonlargion&#47;Prixdesjeuxrtroselonlargion' />
+            <param name='tabs' value='no' />
+            <param name='toolbar' value='yes' />
+            <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PrixdesjeuxRtroselonlargion&#47;Prixdesjeuxrtroselonlargion&#47;1.png' />
+            <param name='animate_transition' value='yes' />
+            <param name='display_static_image' value='yes' />
+            <param name='display_spinner' value='yes' />
+            <param name='display_overlay' value='yes' />
+            <param name='display_count' value='yes' /><
+            param name='language' value='fr-FR' /></object></div>        
+        <script type='text/javascript'>                    
+        var divElement = document.getElementById('viz1663728699610');                    
+        var vizElement = divElement.getElementsByTagName('object')[0];                    
+        if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+        else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+        else { vizElement.style.width='100%';vizElement.style.height='1377px';}                     
+        var scriptElement = document.createElement('script');                  
+        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+      </script>
+    </body>
+</html>
