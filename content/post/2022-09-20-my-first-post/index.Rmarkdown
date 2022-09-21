@@ -6,17 +6,17 @@ output: html_document
 
 Depuis quelques années j'hésitais à faire l'acquisition d'une Nintendo DS pour pouvoir profiter du catalogue de la console mais aussi de celui de la GBA et DS.
 
-Etant un grand fan de JRPG c'était selon moi la console parfaite pour (re-)découvrir des titres majeurs de l'industrie tels que les Final Fantasy, Golden Sun, qui en passant a été un de mes premiers JRPG et qui m'a fortement marqué à l'époque sur GBA et les Dragon Quest sur DS.
+Etant un grand fan de JRPG c'était selon moi la console parfaite pour (re-)découvrir des titres majeurs de l'industrie tels que les Final Fantasy, Golden Sun, un de mes premiers JRPG et qui m'a fortement marqué à l'époque sur GBA et les Dragon Quest sur DS.
 
-J'ai entre temps eu 2 filles et moins de temps pour jouer, mais il y a quelques mois je vois qu'une DS Lite en assez bon état est à vendre dans le magasin Rétro à côté de la maison pour environ 69 CAD (soit environ 50€). Je prends le temps de la réflexion, et 5 min plus tard direction le magasin (Je reviens évidemment avec une copie de Golden Sun!).
+J'ai entre temps eu deux filles et moins de temps pour jouer, mais il y a quelques mois je vois qu'une DS Lite, en assez bon état, est à vendre dans le magasin Rétro à côté de la maison pour environ 69 CAD (soit environ 50€). Je prends le temps de la réflexion, et 5 minutes plus tard direction le magasin.
 
-Tout content de mon achat, je retrouve cette nostalgie des jeux de mon enfance et de mon adolescence, ce pixel art qui selon moi a très bien vieilli, cette musique magnifique et tant d'autres aspects qui font le charme des jeux de cette époque.
+Tout content de mon achat, je retrouve cette nostalgie des jeux de mon enfance et de mon adolescence, ce pixel art qui a très bien vieilli, cette musique magnifique et tant d'autres aspects qui font le charme des jeux de cette époque.
 
-Après une vingtaine à explorer le monde de Weyard en compagnie de Isaac (Vlad dans la version française) et sa bande d'acolytes, ma faim de JRPG old-school n'est pas rassasié. Heureusement j'ai Dragon Quest 2 sur Switch que j'avais commencé l'an passé mais pas fini, mais une dizaine d'heure plus tard, même constat I Need More!!!
+Après une vingtaine d'heures à explorer le monde de Weyard en compagnie de Isaac (Vlad dans la version française) et sa bande d'acolytes, ma faim de JRPG old-school n'est pas rassasié. Heureusement j'ai Dragon Quest 2 sur Switch que j'avais commencé l'an passé mais non terminé, mais une dizaine d'heure plus tard, même constat **I Need More!!!**
 
-Il est temps pour moi de découvrir un des meilleurs Dragon Quest, voir un des meilleurs JRPG, Dragon Quest V: La Fiancée Céleste. Tout naïf que je suis je me dis en rentrant ce soir je fais un saut au magasin Rétro à côté de la maison, et là je vois le prix 300 CAD (soit 225€) pour une version CIB.
+Il est temps pour moi de découvrir un des meilleurs Dragon Quest, voir un des meilleurs JRPG, Dragon Quest V: La Fiancée Céleste. Tout naïf que je suis, je fais un saut au magasin Rétro à côté de la maison, et là je vois le prix 300 CAD (soit 225€) pour une version CIB.
 
-Je regarde le prix sur les sites européens, entre 150€ et 200€. Le prix est un peu plus faible mais tout de même élevé.
+Je regarde le prix sur les sites européens, entre 150€ et 200€. Le prix est un peu plus faible mais tout de même élevé pour un jeu sorti il y a une vingtaine d'années.
 
 <!DOCTYPE html>
 
